@@ -41,14 +41,12 @@ SIKARIR menyediakan beberapa fitur inti, antara lain:
 ## 🧠 Metode RIASEC
 
 RIASEC merupakan teori minat karier yang mengelompokkan kepribadian ke dalam enam tipe utama:
-
 - **R – Realistic** (Praktis)  
 - **I – Investigative** (Analitis)  
 - **A – Artistic** (Kreatif)  
 - **S – Social** (Berorientasi pada interaksi sosial)  
 - **E – Enterprising** (Persuasif dan kepemimpinan)  
 - **C – Conventional** (Terstruktur dan terorganisir)
-
 Metode ini digunakan untuk membantu siswa memahami kecocokan minat mereka dengan pilihan karier yang tersedia.
 
 ---
@@ -56,6 +54,19 @@ Metode ini digunakan untuk membantu siswa memahami kecocokan minat mereka dengan
 ## 🔗 Project Links
 - Repository GitHub: https://github.com/rerewishlist/sikarir-laravel  
 - Demo Aplikasi: *Coming Soon*
+
+---
+
+## 📸 Screenshots
+
+### Halaman Home
+![Halaman Home](screenshots/home.png)
+
+### Halaman Login
+![Halaman Login](screenshots/login.png)
+
+### Halaman Tes RIASEC
+![Halaman Tes RIASEC](screenshots/riasec.png)
 
 ---
 
